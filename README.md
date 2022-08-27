@@ -1,4 +1,4 @@
-# UniReferenceCounter
+# Kogane Reference Counter
 
 参照カウンタ
 
